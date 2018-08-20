@@ -17,7 +17,7 @@
                   :rules="emailRules"
                   ></v-text-field>
                   <v-text-field 
-                  prepend-icon="password" 
+                  prepend-icon="lock" 
                   name="password" 
                   label="Password" 
                   type="password"
