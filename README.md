@@ -1,6 +1,6 @@
 # onlinestore
 
-> A Vue.js project
+> A Vue.js project in developing
 
 ## Build Setup
 
